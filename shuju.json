@@ -1,0 +1,1360 @@
+{
+    "code": 200,
+    "msg": "",
+    "data": {
+        "region": "全球",
+        "confirmedCount": 109473308,
+        "deadCount": 2417923,
+        "curedCount": 79563780,
+        "updateTime": "2021-02-17 10:45:01",
+        "sourceDesc": "数据来自官方通报，全国与各省通报数据可能存在差异",
+        "continent": [
+            {
+                "continentName": "亚洲",
+                "confirmedCount": 24095910,
+                "curedCount": 22510436,
+                "deadCount": 386463,
+                "country": [
+                    {
+                        "provinceName": "伊朗",
+                        "confirmedCount": 1534034,
+                        "curedCount": 1310821,
+                        "deadCount": 59117
+                    },
+                    {
+                        "provinceName": "印度尼西亚",
+                        "confirmedCount": 1233959,
+                        "curedCount": 1039674,
+                        "deadCount": 33596
+                    },
+                    {
+                        "provinceName": "印度",
+                        "confirmedCount": 10925710,
+                        "curedCount": 10633025,
+                        "deadCount": 155813
+                    },
+                    {
+                        "provinceName": "哈萨克斯坦",
+                        "confirmedCount": 251959,
+                        "curedCount": 121347,
+                        "deadCount": 3246
+                    },
+                    {
+                        "provinceName": "黎巴嫩",
+                        "confirmedCount": 343601,
+                        "curedCount": 248720,
+                        "deadCount": 4092
+                    },
+                    {
+                        "provinceName": "土耳其",
+                        "confirmedCount": 2602034,
+                        "curedCount": 2489624,
+                        "deadCount": 27652
+                    },
+                    {
+                        "provinceName": "以色列",
+                        "confirmedCount": 734575,
+                        "curedCount": 673908,
+                        "deadCount": 5441
+                    },
+                    {
+                        "provinceName": "孟加拉国",
+                        "confirmedCount": 541434,
+                        "curedCount": 488621,
+                        "deadCount": 8298
+                    },
+                    {
+                        "provinceName": "马来西亚",
+                        "confirmedCount": 269165,
+                        "curedCount": 224053,
+                        "deadCount": 983
+                    },
+                    {
+                        "provinceName": "巴勒斯坦",
+                        "confirmedCount": 65802,
+                        "curedCount": 32944,
+                        "deadCount": 561
+                    },
+                    {
+                        "provinceName": "塞浦路斯",
+                        "confirmedCount": 32626,
+                        "curedCount": 2057,
+                        "deadCount": 222
+                    },
+                    {
+                        "provinceName": "菲律宾",
+                        "confirmedCount": 552246,
+                        "curedCount": 511796,
+                        "deadCount": 11524
+                    },
+                    {
+                        "provinceName": "伊拉克",
+                        "confirmedCount": 649982,
+                        "curedCount": 609800,
+                        "deadCount": 13192
+                    },
+                    {
+                        "provinceName": "巴基斯坦",
+                        "confirmedCount": 564824,
+                        "curedCount": 527061,
+                        "deadCount": 12380
+                    },
+                    {
+                        "provinceName": "日本",
+                        "confirmedCount": 417765,
+                        "curedCount": 387740,
+                        "deadCount": 7015
+                    },
+                    {
+                        "provinceName": "约旦",
+                        "confirmedCount": 352219,
+                        "curedCount": 329511,
+                        "deadCount": 4491
+                    },
+                    {
+                        "provinceName": "阿联酋",
+                        "confirmedCount": 355131,
+                        "curedCount": 340365,
+                        "deadCount": 1041
+                    },
+                    {
+                        "provinceName": "科威特",
+                        "confirmedCount": 179488,
+                        "curedCount": 167601,
+                        "deadCount": 1014
+                    },
+                    {
+                        "provinceName": "卡塔尔",
+                        "confirmedCount": 158138,
+                        "curedCount": 148677,
+                        "deadCount": 256
+                    },
+                    {
+                        "provinceName": "韩国",
+                        "confirmedCount": 84946,
+                        "curedCount": 75360,
+                        "deadCount": 1538
+                    },
+                    {
+                        "provinceName": "缅甸",
+                        "confirmedCount": 141659,
+                        "curedCount": 130859,
+                        "deadCount": 3192
+                    },
+                    {
+                        "provinceName": "巴林",
+                        "confirmedCount": 113590,
+                        "curedCount": 105784,
+                        "deadCount": 407
+                    },
+                    {
+                        "provinceName": "阿曼",
+                        "confirmedCount": 137929,
+                        "curedCount": 129543,
+                        "deadCount": 1544
+                    },
+                    {
+                        "provinceName": "斯里兰卡",
+                        "confirmedCount": 76781,
+                        "curedCount": 70429,
+                        "deadCount": 403
+                    },
+                    {
+                        "provinceName": "叙利亚",
+                        "confirmedCount": 14906,
+                        "curedCount": 8520,
+                        "deadCount": 981
+                    },
+                    {
+                        "provinceName": "亚美尼亚",
+                        "confirmedCount": 169391,
+                        "curedCount": 161105,
+                        "deadCount": 3150
+                    },
+                    {
+                        "provinceName": "阿富汗",
+                        "confirmedCount": 55518,
+                        "curedCount": 48433,
+                        "deadCount": 2428
+                    },
+                    {
+                        "provinceName": "格鲁吉亚",
+                        "confirmedCount": 266462,
+                        "curedCount": 259228,
+                        "deadCount": 3377
+                    },
+                    {
+                        "provinceName": "沙特阿拉伯",
+                        "confirmedCount": 373368,
+                        "curedCount": 364297,
+                        "deadCount": 6441
+                    },
+                    {
+                        "provinceName": "马尔代夫",
+                        "confirmedCount": 17953,
+                        "curedCount": 15560,
+                        "deadCount": 58
+                    },
+                    {
+                        "provinceName": "阿塞拜疆",
+                        "confirmedCount": 232337,
+                        "curedCount": 226951,
+                        "deadCount": 3185
+                    },
+                    {
+                        "provinceName": "吉尔吉斯斯坦",
+                        "confirmedCount": 85564,
+                        "curedCount": 82391,
+                        "deadCount": 1444
+                    },
+                    {
+                        "provinceName": "尼泊尔",
+                        "confirmedCount": 272945,
+                        "curedCount": 269303,
+                        "deadCount": 2055
+                    },
+                    {
+                        "provinceName": "也门共和国",
+                        "confirmedCount": 2149,
+                        "curedCount": 350,
+                        "deadCount": 618
+                    },
+                    {
+                        "provinceName": "泰国",
+                        "confirmedCount": 24786,
+                        "curedCount": 23563,
+                        "deadCount": 82
+                    },
+                    {
+                        "provinceName": "中国",
+                        "confirmedCount": 101576,
+                        "curedCount": 95739,
+                        "deadCount": 4840
+                    },
+                    {
+                        "provinceName": "乌兹别克斯坦",
+                        "confirmedCount": 79461,
+                        "curedCount": 77928,
+                        "deadCount": 622
+                    },
+                    {
+                        "provinceName": "越南",
+                        "confirmedCount": 2311,
+                        "curedCount": 1573,
+                        "deadCount": 35
+                    },
+                    {
+                        "provinceName": "蒙古",
+                        "confirmedCount": 2387,
+                        "curedCount": 1711,
+                        "deadCount": 5
+                    },
+                    {
+                        "provinceName": "塔吉克斯坦",
+                        "confirmedCount": 13714,
+                        "curedCount": 13218,
+                        "deadCount": 91
+                    },
+                    {
+                        "provinceName": "新加坡",
+                        "confirmedCount": 59809,
+                        "curedCount": 59641,
+                        "deadCount": 29
+                    },
+                    {
+                        "provinceName": "东帝汶",
+                        "confirmedCount": 102,
+                        "curedCount": 62,
+                        "deadCount": 0
+                    },
+                    {
+                        "provinceName": "柬埔寨",
+                        "confirmedCount": 479,
+                        "curedCount": 469,
+                        "deadCount": 0
+                    },
+                    {
+                        "provinceName": "不丹",
+                        "confirmedCount": 866,
+                        "curedCount": 856,
+                        "deadCount": 1
+                    },
+                    {
+                        "provinceName": "文莱",
+                        "confirmedCount": 184,
+                        "curedCount": 177,
+                        "deadCount": 3
+                    },
+                    {
+                        "provinceName": "老挝",
+                        "confirmedCount": 45,
+                        "curedCount": 41,
+                        "deadCount": 0
+                    }
+                ]
+            },
+            {
+                "continentName": "欧洲",
+                "confirmedCount": 32508172,
+                "curedCount": 16465604,
+                "deadCount": 775099,
+                "country": [
+                    {
+                        "provinceName": "英国",
+                        "confirmedCount": 4058468,
+                        "curedCount": 539,
+                        "deadCount": 118195
+                    },
+                    {
+                        "provinceName": "法国",
+                        "confirmedCount": 3489129,
+                        "curedCount": 223174,
+                        "deadCount": 82812
+                    },
+                    {
+                        "provinceName": "西班牙",
+                        "confirmedCount": 3096343,
+                        "curedCount": 150376,
+                        "deadCount": 65979
+                    },
+                    {
+                        "provinceName": "荷兰",
+                        "confirmedCount": 1034795,
+                        "curedCount": 11886,
+                        "deadCount": 14929
+                    },
+                    {
+                        "provinceName": "比利时",
+                        "confirmedCount": 739488,
+                        "curedCount": 19239,
+                        "deadCount": 21702
+                    },
+                    {
+                        "provinceName": "瑞典",
+                        "confirmedCount": 617869,
+                        "curedCount": 4971,
+                        "deadCount": 12487
+                    },
+                    {
+                        "provinceName": "塞尔维亚",
+                        "confirmedCount": 488115,
+                        "curedCount": 55559,
+                        "deadCount": 5805
+                    },
+                    {
+                        "provinceName": "意大利",
+                        "confirmedCount": 2739591,
+                        "curedCount": 2251734,
+                        "deadCount": 94171
+                    },
+                    {
+                        "provinceName": "俄罗斯",
+                        "confirmedCount": 4099323,
+                        "curedCount": 3624663,
+                        "deadCount": 80979
+                    },
+                    {
+                        "provinceName": "瑞士",
+                        "confirmedCount": 544282,
+                        "curedCount": 317600,
+                        "deadCount": 9106
+                    },
+                    {
+                        "provinceName": "波兰",
+                        "confirmedCount": 1596673,
+                        "curedCount": 1352443,
+                        "deadCount": 41028
+                    },
+                    {
+                        "provinceName": "爱尔兰",
+                        "confirmedCount": 211113,
+                        "curedCount": 25422,
+                        "deadCount": 3980
+                    },
+                    {
+                        "provinceName": "斯洛文尼亚",
+                        "confirmedCount": 179780,
+                        "curedCount": 2027,
+                        "deadCount": 3979
+                    },
+                    {
+                        "provinceName": "希腊",
+                        "confirmedCount": 172824,
+                        "curedCount": 1473,
+                        "deadCount": 6152
+                    },
+                    {
+                        "provinceName": "德国",
+                        "confirmedCount": 2352766,
+                        "curedCount": 2140866,
+                        "deadCount": 66536
+                    },
+                    {
+                        "provinceName": "乌克兰",
+                        "confirmedCount": 1276618,
+                        "curedCount": 1122968,
+                        "deadCount": 24542
+                    },
+                    {
+                        "provinceName": "捷克",
+                        "confirmedCount": 1099654,
+                        "curedCount": 978749,
+                        "deadCount": 18430
+                    },
+                    {
+                        "provinceName": "葡萄牙",
+                        "confirmedCount": 788561,
+                        "curedCount": 677719,
+                        "deadCount": 15522
+                    },
+                    {
+                        "provinceName": "匈牙利",
+                        "confirmedCount": 389622,
+                        "curedCount": 298773,
+                        "deadCount": 13837
+                    },
+                    {
+                        "provinceName": "罗马尼亚",
+                        "confirmedCount": 765970,
+                        "curedCount": 711977,
+                        "deadCount": 19526
+                    },
+                    {
+                        "provinceName": "阿尔巴尼亚",
+                        "confirmedCount": 94651,
+                        "curedCount": 58794,
+                        "deadCount": 1582
+                    },
+                    {
+                        "provinceName": "保加利亚",
+                        "confirmedCount": 232096,
+                        "curedCount": 198324,
+                        "deadCount": 9703
+                    },
+                    {
+                        "provinceName": "芬兰",
+                        "confirmedCount": 51047,
+                        "curedCount": 31000,
+                        "deadCount": 720
+                    },
+                    {
+                        "provinceName": "斯洛伐克",
+                        "confirmedCount": 279696,
+                        "curedCount": 255300,
+                        "deadCount": 6063
+                    },
+                    {
+                        "provinceName": "波黑",
+                        "confirmedCount": 126139,
+                        "curedCount": 105410,
+                        "deadCount": 4916
+                    },
+                    {
+                        "provinceName": "奥地利",
+                        "confirmedCount": 436139,
+                        "curedCount": 413908,
+                        "deadCount": 8260
+                    },
+                    {
+                        "provinceName": "立陶宛",
+                        "confirmedCount": 191264,
+                        "curedCount": 175278,
+                        "deadCount": 3095
+                    },
+                    {
+                        "provinceName": "挪威",
+                        "confirmedCount": 66854,
+                        "curedCount": 54004,
+                        "deadCount": 593
+                    },
+                    {
+                        "provinceName": "爱沙尼亚",
+                        "confirmedCount": 53444,
+                        "curedCount": 42403,
+                        "deadCount": 508
+                    },
+                    {
+                        "provinceName": "拉脱维亚",
+                        "confirmedCount": 76984,
+                        "curedCount": 65450,
+                        "deadCount": 1468
+                    },
+                    {
+                        "provinceName": "摩尔多瓦",
+                        "confirmedCount": 171514,
+                        "curedCount": 158619,
+                        "deadCount": 3678
+                    },
+                    {
+                        "provinceName": "白俄罗斯",
+                        "confirmedCount": 270921,
+                        "curedCount": 260057,
+                        "deadCount": 1867
+                    },
+                    {
+                        "provinceName": "黑山",
+                        "confirmedCount": 69294,
+                        "curedCount": 59729,
+                        "deadCount": 899
+                    },
+                    {
+                        "provinceName": "北马其顿",
+                        "confirmedCount": 97456,
+                        "curedCount": 88301,
+                        "deadCount": 3003
+                    },
+                    {
+                        "provinceName": "丹麦",
+                        "confirmedCount": 205183,
+                        "curedCount": 197258,
+                        "deadCount": 2308
+                    },
+                    {
+                        "provinceName": "卢森堡",
+                        "confirmedCount": 52923,
+                        "curedCount": 49775,
+                        "deadCount": 611
+                    },
+                    {
+                        "provinceName": "马耳他",
+                        "confirmedCount": 19945,
+                        "curedCount": 17310,
+                        "deadCount": 295
+                    },
+                    {
+                        "provinceName": "克罗地亚",
+                        "confirmedCount": 237999,
+                        "curedCount": 230683,
+                        "deadCount": 5357
+                    },
+                    {
+                        "provinceName": "安道尔",
+                        "confirmedCount": 10538,
+                        "curedCount": 9965,
+                        "deadCount": 107
+                    },
+                    {
+                        "provinceName": "摩纳哥",
+                        "confirmedCount": 1774,
+                        "curedCount": 1490,
+                        "deadCount": 21
+                    },
+                    {
+                        "provinceName": "圣马力诺",
+                        "confirmedCount": 3317,
+                        "curedCount": 2993,
+                        "deadCount": 72
+                    },
+                    {
+                        "provinceName": "根西岛",
+                        "confirmedCount": 804,
+                        "curedCount": 648,
+                        "deadCount": 13
+                    },
+                    {
+                        "provinceName": "列支敦士登",
+                        "confirmedCount": 2614,
+                        "curedCount": 2470,
+                        "deadCount": 53
+                    },
+                    {
+                        "provinceName": "直布罗陀",
+                        "confirmedCount": 4224,
+                        "curedCount": 4074,
+                        "deadCount": 87
+                    },
+                    {
+                        "provinceName": "泽西岛",
+                        "confirmedCount": 3205,
+                        "curedCount": 3107,
+                        "deadCount": 68
+                    },
+                    {
+                        "provinceName": "冰岛",
+                        "confirmedCount": 6039,
+                        "curedCount": 5984,
+                        "deadCount": 29
+                    },
+                    {
+                        "provinceName": "法罗群岛",
+                        "confirmedCount": 658,
+                        "curedCount": 654,
+                        "deadCount": 1
+                    },
+                    {
+                        "provinceName": "梵蒂冈",
+                        "confirmedCount": 29,
+                        "curedCount": 27,
+                        "deadCount": 0
+                    },
+                    {
+                        "provinceName": "马恩岛",
+                        "confirmedCount": 437,
+                        "curedCount": 431,
+                        "deadCount": 25
+                    }
+                ]
+            },
+            {
+                "continentName": "北美洲",
+                "confirmedCount": 31971374,
+                "curedCount": 21826314,
+                "deadCount": 710968,
+                "country": [
+                    {
+                        "provinceName": "美国",
+                        "confirmedCount": 27744089,
+                        "curedCount": 18453344,
+                        "deadCount": 487656
+                    },
+                    {
+                        "provinceName": "墨西哥",
+                        "confirmedCount": 1995892,
+                        "curedCount": 1555923,
+                        "deadCount": 174657
+                    },
+                    {
+                        "provinceName": "波多黎各",
+                        "confirmedCount": 97837,
+                        "curedCount": 0,
+                        "deadCount": 1920
+                    },
+                    {
+                        "provinceName": "洪都拉斯",
+                        "confirmedCount": 160983,
+                        "curedCount": 63346,
+                        "deadCount": 3893
+                    },
+                    {
+                        "provinceName": "多米尼加",
+                        "confirmedCount": 231095,
+                        "curedCount": 179097,
+                        "deadCount": 2975
+                    },
+                    {
+                        "provinceName": "加拿大",
+                        "confirmedCount": 831577,
+                        "curedCount": 776208,
+                        "deadCount": 21397
+                    },
+                    {
+                        "provinceName": "哥斯达黎加",
+                        "confirmedCount": 200454,
+                        "curedCount": 165439,
+                        "deadCount": 2737
+                    },
+                    {
+                        "provinceName": "巴拿马",
+                        "confirmedCount": 333251,
+                        "curedCount": 314797,
+                        "deadCount": 5655
+                    },
+                    {
+                        "provinceName": "瓜德罗普岛",
+                        "confirmedCount": 9351,
+                        "curedCount": 0,
+                        "deadCount": 160
+                    },
+                    {
+                        "provinceName": "危地马拉",
+                        "confirmedCount": 168103,
+                        "curedCount": 155211,
+                        "deadCount": 6158
+                    },
+                    {
+                        "provinceName": "马提尼克",
+                        "confirmedCount": 6553,
+                        "curedCount": 0,
+                        "deadCount": 45
+                    },
+                    {
+                        "provinceName": "牙买加",
+                        "confirmedCount": 19305,
+                        "curedCount": 12635,
+                        "deadCount": 378
+                    },
+                    {
+                        "provinceName": "古巴",
+                        "confirmedCount": 39004,
+                        "curedCount": 33776,
+                        "deadCount": 269
+                    },
+                    {
+                        "provinceName": "萨尔瓦多",
+                        "confirmedCount": 58023,
+                        "curedCount": 52688,
+                        "deadCount": 1758
+                    },
+                    {
+                        "provinceName": "海地",
+                        "confirmedCount": 12192,
+                        "curedCount": 9177,
+                        "deadCount": 247
+                    },
+                    {
+                        "provinceName": "尼加拉瓜",
+                        "confirmedCount": 6347,
+                        "curedCount": 4225,
+                        "deadCount": 171
+                    },
+                    {
+                        "provinceName": "圣文森特和格林纳丁斯",
+                        "confirmedCount": 1453,
+                        "curedCount": 147,
+                        "deadCount": 6
+                    },
+                    {
+                        "provinceName": "巴哈马",
+                        "confirmedCount": 8376,
+                        "curedCount": 7020,
+                        "deadCount": 179
+                    },
+                    {
+                        "provinceName": "圣卢西亚",
+                        "confirmedCount": 2519,
+                        "curedCount": 1849,
+                        "deadCount": 23
+                    },
+                    {
+                        "provinceName": "巴巴多斯",
+                        "confirmedCount": 2268,
+                        "curedCount": 1639,
+                        "deadCount": 24
+                    },
+                    {
+                        "provinceName": "圣巴泰勒米岛",
+                        "confirmedCount": 455,
+                        "curedCount": 0,
+                        "deadCount": 0
+                    },
+                    {
+                        "provinceName": "特克斯和凯科斯群岛",
+                        "confirmedCount": 1874,
+                        "curedCount": 1551,
+                        "deadCount": 13
+                    },
+                    {
+                        "provinceName": "阿鲁巴",
+                        "confirmedCount": 7461,
+                        "curedCount": 7131,
+                        "deadCount": 69
+                    },
+                    {
+                        "provinceName": "安提瓜和巴布达",
+                        "confirmedCount": 443,
+                        "curedCount": 205,
+                        "deadCount": 9
+                    },
+                    {
+                        "provinceName": "伯利兹",
+                        "confirmedCount": 12175,
+                        "curedCount": 11668,
+                        "deadCount": 313
+                    },
+                    {
+                        "provinceName": "库拉索岛",
+                        "confirmedCount": 4650,
+                        "curedCount": 4438,
+                        "deadCount": 22
+                    },
+                    {
+                        "provinceName": "特立尼达和多巴哥",
+                        "confirmedCount": 7646,
+                        "curedCount": 7351,
+                        "deadCount": 138
+                    },
+                    {
+                        "provinceName": "圣马丁岛",
+                        "confirmedCount": 1758,
+                        "curedCount": 1598,
+                        "deadCount": 27
+                    },
+                    {
+                        "provinceName": "美属维尔京群岛",
+                        "confirmedCount": 2542,
+                        "curedCount": 2412,
+                        "deadCount": 25
+                    },
+                    {
+                        "provinceName": "荷属圣马丁",
+                        "confirmedCount": 2001,
+                        "curedCount": 1916,
+                        "deadCount": 27
+                    },
+                    {
+                        "provinceName": "英属维尔京群岛",
+                        "confirmedCount": 153,
+                        "curedCount": 95,
+                        "deadCount": 1
+                    },
+                    {
+                        "provinceName": "开曼群岛",
+                        "confirmedCount": 419,
+                        "curedCount": 388,
+                        "deadCount": 2
+                    },
+                    {
+                        "provinceName": "多米尼克",
+                        "confirmedCount": 134,
+                        "curedCount": 110,
+                        "deadCount": 0
+                    },
+                    {
+                        "provinceName": "格林那达",
+                        "confirmedCount": 163,
+                        "curedCount": 146,
+                        "deadCount": 1
+                    },
+                    {
+                        "provinceName": "圣皮埃尔和密克隆群岛",
+                        "confirmedCount": 24,
+                        "curedCount": 12,
+                        "deadCount": 0
+                    },
+                    {
+                        "provinceName": "蒙特塞拉特",
+                        "confirmedCount": 20,
+                        "curedCount": 12,
+                        "deadCount": 1
+                    },
+                    {
+                        "provinceName": "安圭拉",
+                        "confirmedCount": 18,
+                        "curedCount": 12,
+                        "deadCount": 0
+                    },
+                    {
+                        "provinceName": "百慕大",
+                        "confirmedCount": 695,
+                        "curedCount": 679,
+                        "deadCount": 12
+                    },
+                    {
+                        "provinceName": "圣其茨和尼维斯",
+                        "confirmedCount": 41,
+                        "curedCount": 39,
+                        "deadCount": 0
+                    },
+                    {
+                        "provinceName": "格陵兰",
+                        "confirmedCount": 30,
+                        "curedCount": 30,
+                        "deadCount": 0
+                    }
+                ]
+            },
+            {
+                "continentName": "南美洲",
+                "confirmedCount": 17045143,
+                "curedCount": 15422770,
+                "deadCount": 444736,
+                "country": [
+                    {
+                        "provinceName": "巴西",
+                        "confirmedCount": 9921981,
+                        "curedCount": 8883191,
+                        "deadCount": 240983
+                    },
+                    {
+                        "provinceName": "阿根廷",
+                        "confirmedCount": 2033007,
+                        "curedCount": 1838253,
+                        "deadCount": 50432
+                    },
+                    {
+                        "provinceName": "哥伦比亚",
+                        "confirmedCount": 2202598,
+                        "curedCount": 2095105,
+                        "deadCount": 57949
+                    },
+                    {
+                        "provinceName": "玻利维亚",
+                        "confirmedCount": 237144,
+                        "curedCount": 179057,
+                        "deadCount": 11234
+                    },
+                    {
+                        "provinceName": "秘鲁",
+                        "confirmedCount": 1238501,
+                        "curedCount": 1149367,
+                        "deadCount": 43880
+                    },
+                    {
+                        "provinceName": "厄瓜多尔",
+                        "confirmedCount": 268073,
+                        "curedCount": 230377,
+                        "deadCount": 15392
+                    },
+                    {
+                        "provinceName": "智利",
+                        "confirmedCount": 782039,
+                        "curedCount": 740465,
+                        "deadCount": 19644
+                    },
+                    {
+                        "provinceName": "巴拉圭",
+                        "confirmedCount": 145095,
+                        "curedCount": 121542,
+                        "deadCount": 2953
+                    },
+                    {
+                        "provinceName": "法属圭亚那",
+                        "confirmedCount": 16456,
+                        "curedCount": 0,
+                        "deadCount": 80
+                    },
+                    {
+                        "provinceName": "委内瑞拉",
+                        "confirmedCount": 133577,
+                        "curedCount": 125565,
+                        "deadCount": 1285
+                    },
+                    {
+                        "provinceName": "乌拉圭",
+                        "confirmedCount": 49360,
+                        "curedCount": 44060,
+                        "deadCount": 546
+                    },
+                    {
+                        "provinceName": "圭亚那",
+                        "confirmedCount": 8262,
+                        "curedCount": 7486,
+                        "deadCount": 188
+                    },
+                    {
+                        "provinceName": "苏里南",
+                        "confirmedCount": 8820,
+                        "curedCount": 8264,
+                        "deadCount": 167
+                    },
+                    {
+                        "provinceName": "荷兰加勒比地区",
+                        "confirmedCount": 177,
+                        "curedCount": 0,
+                        "deadCount": 3
+                    },
+                    {
+                        "provinceName": "福克兰群岛",
+                        "confirmedCount": 53,
+                        "curedCount": 38,
+                        "deadCount": 0
+                    }
+                ]
+            },
+            {
+                "continentName": "非洲",
+                "confirmedCount": 3793775,
+                "curedCount": 3295677,
+                "deadCount": 99430,
+                "country": [
+                    {
+                        "provinceName": "南非",
+                        "confirmedCount": 1494119,
+                        "curedCount": 1396951,
+                        "deadCount": 48313
+                    },
+                    {
+                        "provinceName": "突尼斯",
+                        "confirmedCount": 223549,
+                        "curedCount": 183530,
+                        "deadCount": 7575
+                    },
+                    {
+                        "provinceName": "阿尔及利亚",
+                        "confirmedCount": 110894,
+                        "curedCount": 76168,
+                        "deadCount": 2943
+                    },
+                    {
+                        "provinceName": "埃及",
+                        "confirmedCount": 175059,
+                        "curedCount": 135670,
+                        "deadCount": 10101
+                    },
+                    {
+                        "provinceName": "乌干达",
+                        "confirmedCount": 40098,
+                        "curedCount": 14545,
+                        "deadCount": 331
+                    },
+                    {
+                        "provinceName": "尼日利亚",
+                        "confirmedCount": 148296,
+                        "curedCount": 124483,
+                        "deadCount": 1777
+                    },
+                    {
+                        "provinceName": "莫桑比克",
+                        "confirmedCount": 51800,
+                        "curedCount": 32262,
+                        "deadCount": 551
+                    },
+                    {
+                        "provinceName": "埃塞俄比亚",
+                        "confirmedCount": 148490,
+                        "curedCount": 129145,
+                        "deadCount": 2223
+                    },
+                    {
+                        "provinceName": "肯尼亚",
+                        "confirmedCount": 103188,
+                        "curedCount": 85336,
+                        "deadCount": 1797
+                    },
+                    {
+                        "provinceName": "利比亚",
+                        "confirmedCount": 127705,
+                        "curedCount": 110965,
+                        "deadCount": 2042
+                    },
+                    {
+                        "provinceName": "马拉维",
+                        "confirmedCount": 29421,
+                        "curedCount": 14803,
+                        "deadCount": 968
+                    },
+                    {
+                        "provinceName": "马约特",
+                        "confirmedCount": 13670,
+                        "curedCount": 0,
+                        "deadCount": 81
+                    },
+                    {
+                        "provinceName": "斯威士兰",
+                        "confirmedCount": 16576,
+                        "curedCount": 2936,
+                        "deadCount": 634
+                    },
+                    {
+                        "provinceName": "留尼旺",
+                        "confirmedCount": 10907,
+                        "curedCount": 0,
+                        "deadCount": 47
+                    },
+                    {
+                        "provinceName": "摩洛哥",
+                        "confirmedCount": 479071,
+                        "curedCount": 460628,
+                        "deadCount": 8504
+                    },
+                    {
+                        "provinceName": "刚果（金）",
+                        "confirmedCount": 24385,
+                        "curedCount": 14834,
+                        "deadCount": 692
+                    },
+                    {
+                        "provinceName": "加纳",
+                        "confirmedCount": 76492,
+                        "curedCount": 67127,
+                        "deadCount": 542
+                    },
+                    {
+                        "provinceName": "莱索托",
+                        "confirmedCount": 10254,
+                        "curedCount": 2990,
+                        "deadCount": 243
+                    },
+                    {
+                        "provinceName": "赞比亚共和国",
+                        "confirmedCount": 70823,
+                        "curedCount": 63609,
+                        "deadCount": 974
+                    },
+                    {
+                        "provinceName": "苏丹",
+                        "confirmedCount": 30052,
+                        "curedCount": 22208,
+                        "deadCount": 1858
+                    },
+                    {
+                        "provinceName": "塞内加尔",
+                        "confirmedCount": 31275,
+                        "curedCount": 25635,
+                        "deadCount": 754
+                    },
+                    {
+                        "provinceName": "博茨瓦纳",
+                        "confirmedCount": 25802,
+                        "curedCount": 21214,
+                        "deadCount": 226
+                    },
+                    {
+                        "provinceName": "津巴布韦",
+                        "confirmedCount": 35222,
+                        "curedCount": 30759,
+                        "deadCount": 1410
+                    },
+                    {
+                        "provinceName": "中非共和国",
+                        "confirmedCount": 4996,
+                        "curedCount": 1924,
+                        "deadCount": 63
+                    },
+                    {
+                        "provinceName": "卢旺达",
+                        "confirmedCount": 17484,
+                        "curedCount": 14792,
+                        "deadCount": 239
+                    },
+                    {
+                        "provinceName": "刚果（布）",
+                        "confirmedCount": 8419,
+                        "curedCount": 5846,
+                        "deadCount": 123
+                    },
+                    {
+                        "provinceName": "科特迪瓦",
+                        "confirmedCount": 31235,
+                        "curedCount": 28914,
+                        "deadCount": 175
+                    },
+                    {
+                        "provinceName": "布隆迪共和国",
+                        "confirmedCount": 1855,
+                        "curedCount": 4,
+                        "deadCount": 3
+                    },
+                    {
+                        "provinceName": "马里",
+                        "confirmedCount": 8235,
+                        "curedCount": 6154,
+                        "deadCount": 342
+                    },
+                    {
+                        "provinceName": "纳米比亚",
+                        "confirmedCount": 36242,
+                        "curedCount": 34261,
+                        "deadCount": 389
+                    },
+                    {
+                        "provinceName": "南苏丹",
+                        "confirmedCount": 5413,
+                        "curedCount": 3769,
+                        "deadCount": 74
+                    },
+                    {
+                        "provinceName": "喀麦隆",
+                        "confirmedCount": 31394,
+                        "curedCount": 29501,
+                        "deadCount": 474
+                    },
+                    {
+                        "provinceName": "索马里",
+                        "confirmedCount": 5273,
+                        "curedCount": 3750,
+                        "deadCount": 154
+                    },
+                    {
+                        "provinceName": "贝宁",
+                        "confirmedCount": 5039,
+                        "curedCount": 3772,
+                        "deadCount": 62
+                    },
+                    {
+                        "provinceName": "塞拉利昂",
+                        "confirmedCount": 3825,
+                        "curedCount": 2583,
+                        "deadCount": 79
+                    },
+                    {
+                        "provinceName": "加蓬",
+                        "confirmedCount": 12865,
+                        "curedCount": 11750,
+                        "deadCount": 75
+                    },
+                    {
+                        "provinceName": "安哥拉",
+                        "confirmedCount": 20381,
+                        "curedCount": 18918,
+                        "deadCount": 493
+                    },
+                    {
+                        "provinceName": "几内亚",
+                        "confirmedCount": 14967,
+                        "curedCount": 13999,
+                        "deadCount": 85
+                    },
+                    {
+                        "provinceName": "厄立特里亚",
+                        "confirmedCount": 2566,
+                        "curedCount": 1719,
+                        "deadCount": 7
+                    },
+                    {
+                        "provinceName": "多哥",
+                        "confirmedCount": 5953,
+                        "curedCount": 5094,
+                        "deadCount": 81
+                    },
+                    {
+                        "provinceName": "布基纳法索",
+                        "confirmedCount": 11630,
+                        "curedCount": 10748,
+                        "deadCount": 138
+                    },
+                    {
+                        "provinceName": "科摩罗",
+                        "confirmedCount": 3558,
+                        "curedCount": 2911,
+                        "deadCount": 132
+                    },
+                    {
+                        "provinceName": "几内亚比绍",
+                        "confirmedCount": 2924,
+                        "curedCount": 2426,
+                        "deadCount": 46
+                    },
+                    {
+                        "provinceName": "塞舌尔",
+                        "confirmedCount": 1987,
+                        "curedCount": 1534,
+                        "deadCount": 21
+                    },
+                    {
+                        "provinceName": "马达加斯加",
+                        "confirmedCount": 19598,
+                        "curedCount": 18915,
+                        "deadCount": 292
+                    },
+                    {
+                        "provinceName": "冈比亚",
+                        "confirmedCount": 4414,
+                        "curedCount": 3891,
+                        "deadCount": 138
+                    },
+                    {
+                        "provinceName": "佛得角",
+                        "confirmedCount": 14761,
+                        "curedCount": 14240,
+                        "deadCount": 139
+                    },
+                    {
+                        "provinceName": "尼日尔",
+                        "confirmedCount": 4702,
+                        "curedCount": 4152,
+                        "deadCount": 169
+                    },
+                    {
+                        "provinceName": "乍得",
+                        "confirmedCount": 3664,
+                        "curedCount": 3182,
+                        "deadCount": 131
+                    },
+                    {
+                        "provinceName": "圣多美和普林西比",
+                        "confirmedCount": 1482,
+                        "curedCount": 1114,
+                        "deadCount": 22
+                    },
+                    {
+                        "provinceName": "毛里塔尼亚",
+                        "confirmedCount": 16996,
+                        "curedCount": 16240,
+                        "deadCount": 430
+                    },
+                    {
+                        "provinceName": "坦桑尼亚",
+                        "confirmedCount": 509,
+                        "curedCount": 167,
+                        "deadCount": 21
+                    },
+                    {
+                        "provinceName": "赤道几内亚",
+                        "confirmedCount": 5694,
+                        "curedCount": 5426,
+                        "deadCount": 87
+                    },
+                    {
+                        "provinceName": "利比里亚",
+                        "confirmedCount": 1985,
+                        "curedCount": 1775,
+                        "deadCount": 85
+                    },
+                    {
+                        "provinceName": "吉布提",
+                        "confirmedCount": 5980,
+                        "curedCount": 5854,
+                        "deadCount": 65
+                    },
+                    {
+                        "provinceName": "毛里求斯",
+                        "confirmedCount": 601,
+                        "curedCount": 554,
+                        "deadCount": 10
+                    }
+                ]
+            },
+            {
+                "continentName": "大洋洲",
+                "confirmedCount": 58193,
+                "curedCount": 42405,
+                "deadCount": 1214,
+                "country": [
+                    {
+                        "provinceName": "法属波利尼西亚",
+                        "confirmedCount": 18293,
+                        "curedCount": 5167,
+                        "deadCount": 135
+                    },
+                    {
+                        "provinceName": "关岛",
+                        "confirmedCount": 7491,
+                        "curedCount": 6707,
+                        "deadCount": 130
+                    },
+                    {
+                        "provinceName": "澳大利亚",
+                        "confirmedCount": 28905,
+                        "curedCount": 27359,
+                        "deadCount": 909
+                    },
+                    {
+                        "provinceName": "北马里亚纳群岛联邦",
+                        "confirmedCount": 134,
+                        "curedCount": 32,
+                        "deadCount": 2
+                    },
+                    {
+                        "provinceName": "巴布亚新几内亚",
+                        "confirmedCount": 955,
+                        "curedCount": 846,
+                        "deadCount": 10
+                    },
+                    {
+                        "provinceName": "新西兰",
+                        "confirmedCount": 2307,
+                        "curedCount": 2210,
+                        "deadCount": 26
+                    },
+                    {
+                        "provinceName": "新喀里多尼亚",
+                        "confirmedCount": 52,
+                        "curedCount": 30,
+                        "deadCount": 0
+                    },
+                    {
+                        "provinceName": "斐济",
+                        "confirmedCount": 56,
+                        "curedCount": 54,
+                        "deadCount": 2
+                    }
+                ]
+            },
+            {
+                "continentName": "其他",
+                "confirmedCount": 741,
+                "curedCount": 574,
+                "deadCount": 13,
+                "country": [
+                    {
+                        "provinceName": "钻石公主号邮轮",
+                        "confirmedCount": 741,
+                        "curedCount": 574,
+                        "deadCount": 13
+                    }
+                ]
+            }
+        ]
+    }
+}
